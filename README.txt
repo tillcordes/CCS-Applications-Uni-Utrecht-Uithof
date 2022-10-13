@@ -1,0 +1,1 @@
+This repository contains all simulation results made for the report "Technical analysis of carbon capture applications at the Uithof" by Till Cordes, 2022
